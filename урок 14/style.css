@@ -1,0 +1,37 @@
+.table{
+    display: table;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+.caption{
+    display: table-caption;
+color: greenyellow;
+}
+.row{
+    display: table-row;
+    background-color: olive;
+}
+.row1{
+    display: table-row;
+    background-color: olivedrab;
+}
+.row2{
+    display: table-row;
+   color: greenyellow;
+}
+.cell{
+    display: table-cell;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: yellowgreen;
+    color: oldlace;
+}
+.container{
+    margin: auto;
+    min-width: 700px;
+    background-color: ghostwhite;
+    padding: 30px;
+    border-radius: 15px;
+}
